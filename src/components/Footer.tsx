@@ -23,8 +23,8 @@ export default function Footer() {
         <CardContent className="md:text-center">
           <CardTitle>Our Offices</CardTitle>
           <CardDescription className="mt-1 flex flex-col">
-            <span>Vision Towers, Lorem Ipsum</span>
-            <span>Wazalendo plaza, Lorem Ipsum</span>
+            <span>Lorem Ipsum, Lorem Ipsum</span>
+            <span>Lorem Ipsum, Lorem Ipsum</span>
           </CardDescription>
         </CardContent>
       </div>

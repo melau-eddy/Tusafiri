@@ -12,7 +12,7 @@ export default function WhyChooseUs() {
 
       <div className="flex flex-col gap-5 lg:flex-row lg:gap-7">
         <WhyUsCard
-          description="Pay with M-pesa, credit cards or bank transfers. We have you fully covered."
+          description="Pay with M-pesa, credit cards or bank transfers. We got you fully covered."
           heading="Flexible payments"
           imageSrc={PaymentSvg}
         />

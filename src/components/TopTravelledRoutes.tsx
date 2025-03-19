@@ -11,7 +11,7 @@ export default function TopTravelledRoutes() {
   return (
     <div className="flex flex-col items-center gap-8">
       <h1 className="text-2xl font-bold tracking-wide ">
-        Our Top <span className="text-red-400">Destinations</span>
+         Top <span className="text-red-400">Destinations</span>
       </h1>
 
       <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 sm:gap-2 md:grid-cols-3 md:gap-3.5 lg:grid-cols-5 lg:gap-5">

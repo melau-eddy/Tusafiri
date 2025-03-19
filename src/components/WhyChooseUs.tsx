@@ -25,7 +25,7 @@ export default function WhyChooseUs() {
 
         <WhyUsCard
           heading="Enjoy convenience"
-          description="Book anytime from the convenience of your office, home, school, or market."
+          description="Book anytime at the convenience of your office, home, school, or market."
           imageSrc={TimeSvg}
         />
       </div>

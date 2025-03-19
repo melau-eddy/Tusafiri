@@ -15,8 +15,8 @@ export default function Footer() {
         <CardContent className="md:text-center">
           <CardTitle>Contact us</CardTitle>
           <CardDescription className="mt-1 flex flex-col gap-0.5">
-            <span>+ 254 727 533 551</span>
-            <span>+ 254 727 533 551</span>
+            <span>+ 254 750 391 304</span>
+            <span>+ 254 750 391 304</span>
           </CardDescription>
         </CardContent>
 

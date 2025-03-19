@@ -7,7 +7,7 @@ export default function Footer() {
         <CardContent className=" md:text-center">
           <CardTitle>About Us</CardTitle>
           <CardDescription className="mt-1">
-            Safari aims to bring ease and convenience to millions of Kenyan travellers. We work with the country’s
+            Tusafiri aims to bring ease and convenience to millions of Kenyan travellers. We work with the country’s
             leading bus operators to bring you the convenience of digital bookings.
           </CardDescription>
         </CardContent>

@@ -68,7 +68,7 @@ export default function SearchAvailableTripsBooking({ departure, destinations }:
           placeholder={updatedDestination ?? ''}
           options={destinationDropdownOptions}
           handleSelect={handleDestinationChange}
-          label="Travelling To"
+          label="Traveling To"
         />
       </div>
 

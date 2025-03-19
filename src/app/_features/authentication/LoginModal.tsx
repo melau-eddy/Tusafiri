@@ -35,7 +35,7 @@ export default function LoginModal() {
         <DialogContent className="w-full max-w-md">
           <DialogHeader>
             <DialogTitle className="text-2xl">Login</DialogTitle>
-            <DialogDescription>Enter your phonenumber below to login to your account.</DialogDescription>
+            <DialogDescription>Enter your phone number below to login to your account.</DialogDescription>
           </DialogHeader>
 
           <LoginForm setDialogClosed={setDialogClosed} />

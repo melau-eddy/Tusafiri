@@ -14,7 +14,7 @@ export default function Header() {
       <div className="hidden flex-row justify-start gap-5 sm:flex">
         <div className="inline-flex items-center gap-1.5">
           <Phone className="size-5" />
-          <span className="tracking-wide">+254727533551</span>
+          <span className="tracking-wide">+254750391304</span>
         </div>
         <div className="flex flex-row items-center gap-1">
           <Mail className="size-5" />

@@ -19,7 +19,7 @@ export default function WhyChooseUs() {
 
         <WhyUsCard
           heading="Great customer care"
-          description="Get excellent customer service available 8:00 AM to 10:00 PM, via phone, chat or email."
+          description="Get excellent customer services available 8:00 AM to 10:00 PM, via phone, chat or email."
           imageSrc={Support}
         />
 

@@ -34,7 +34,7 @@ export default function SignupModal() {
         <DialogContent className="w-full max-w-md">
           <DialogHeader>
             <DialogTitle className="text-2xl">Sign up</DialogTitle>
-            <DialogDescription>Enter your details below to complete registration</DialogDescription>
+            <DialogDescription>Enter your details to complete registration</DialogDescription>
           </DialogHeader>
 
           <SignupForm setDialogClosed={setDialogClosed} />
